@@ -3,6 +3,10 @@ This project build using `Create React App` by using `Vite` and `TailwindCSS`. (
 
 ![project-image](/src/assets/bank-app.png)
 
+## Demo 
+### [Bank-Web](https://bank-web-silk.vercel.app/)
+
+
 ## Available Scripts 
 In the project directory, you can run:
 ### `npm run dev`

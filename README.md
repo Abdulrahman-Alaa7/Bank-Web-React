@@ -1,5 +1,5 @@
 # Bank-Web
-This project build using `Create React App` by using `Vite` and `TailwindCSS`.
+This project build using `Create React App` by using `Vite` and `TailwindCSS`. (Fully Responsive)
 
 ![project-image](/src/assets/bank-app.png)
 

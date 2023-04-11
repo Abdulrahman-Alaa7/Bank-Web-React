@@ -3,7 +3,7 @@ This project build by using `Create React App` by using `Vite` and `TailwindCSS`
 
 ![project-image](/src/assets/bank-app.png)
 
-## Demo 
+## Preview 
 ### [Bank-Web](https://bank-web-silk.vercel.app/)
 
 
